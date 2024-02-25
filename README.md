@@ -1,5 +1,5 @@
 ### React Native + Lottie + Reanimated
 
-<video controls style="height: 400px;">
-    <source src="./record/splash.mov" type="video/mov">
-</video>
+
+https://github.com/jaehafe/react-native-splash-screen/assets/108874515/81b8394b-5500-4346-bb85-f5cc610d4953
+
